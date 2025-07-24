@@ -1,2 +1,2 @@
 # Bubble Sort
-Primeiro repositÃ³rio
+Primeiro repositório no Git e GitHub.
